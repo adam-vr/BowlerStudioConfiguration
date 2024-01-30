@@ -1,10 +1,20 @@
 {
-  "workspace": {},
+  "workspace": {
+    "https://gist.github.com/4814b39ee72e9f590757.git": [
+      "https://gist.github.com/4814b39ee72e9f590757.git",
+      "1706622016388"
+    ]
+  },
   "studio-open-web": {},
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
+      "https://gist.github.com/4814b39ee72e9f590757.git",
+      "javaCad.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
