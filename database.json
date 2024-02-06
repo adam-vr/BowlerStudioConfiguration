@@ -4,6 +4,10 @@
       "https://gist.github.com/4814b39ee72e9f590757.git",
       "1706622016388"
     ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
+      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
+      "1707233692617"
+    ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git": [
       "BancroftKineticSystemsClass/KineticSystems2024Group02",
       "1706623447330"
@@ -17,6 +21,10 @@
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git:Nametag.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git",
       "Nametag.groovy"
+    ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
+      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
+      "servo.groovy"
     ]
   },
   "BowlerStudioConfigs": {
