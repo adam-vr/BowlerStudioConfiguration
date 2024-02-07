@@ -25,6 +25,10 @@
     "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
       "https://gist.github.com/3f9fef17b23acfadf3f7.git",
       "servo.groovy"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git:printbed.json": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git",
+      "printbed.json"
     ]
   },
   "BowlerStudioConfigs": {
