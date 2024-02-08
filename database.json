@@ -29,6 +29,10 @@
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git:printbed.json": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git",
       "printbed.json"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git:SimpleRobot.xml": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git",
+      "SimpleRobot.xml"
     ]
   },
   "BowlerStudioConfigs": {
