@@ -18,17 +18,9 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git:Nametag.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git",
-      "Nametag.groovy"
-    ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git:TestKinematics.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git",
       "TestKinematics.groovy"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git:SimpleRobotCad.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git",
-      "SimpleRobotCad.groovy"
     ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git:SimpleRobotKinematics.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git",
