@@ -29,6 +29,10 @@
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git:SimpleRobot.xml": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git",
       "SimpleRobot.xml"
+    ],
+    "https://github.com/adam-vr/MotomanGP8.git:AR700.xml": [
+      "https://github.com/adam-vr/MotomanGP8.git",
+      "AR700.xml"
     ]
   },
   "BowlerStudioConfigs": {
