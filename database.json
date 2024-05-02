@@ -2,7 +2,7 @@
   "workspace": {
     "": [
       "Project ",
-      "1714659865361"
+      "1714658556241"
     ],
     "https://github.com/adam-vr/MotomanGP8.git": [
       "adam-vr/MotomanGP8",
@@ -11,6 +11,10 @@
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "https://gist.github.com/4814b39ee72e9f590757.git",
       "1706622016388"
+    ],
+    "https://github.com/madhephaestus/VexVitaminsRobot.git": [
+      "https://github.com/madhephaestus/VexVitaminsRobot.git",
+      "1714659909476"
     ],
     "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
       "https://gist.github.com/3f9fef17b23acfadf3f7.git",
@@ -33,18 +37,6 @@
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git:TestKinematics.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git",
       "TestKinematics.groovy"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git:SimpleRobotCad.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git",
-      "SimpleRobotCad.groovy"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git:SimpleRobotKinematics.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git",
-      "SimpleRobotKinematics.groovy"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git:SimpleRobot.xml": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git",
-      "SimpleRobot.xml"
     ]
   },
   "BowlerStudioConfigs": {
