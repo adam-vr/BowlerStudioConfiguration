@@ -30,6 +30,46 @@
     ]
   },
   "studio-open-web": {},
+  "katapult": {
+    "gameControllerNames": [
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
+      "GPD",
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
+      "GPD",
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
+      "GPD",
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
+      "GPD",
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
+      "GPD",
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
+      "GPD"
+    ]
+  },
   "MenueSettings": {
     "printCSG": true
   },
@@ -45,6 +85,10 @@
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git:TestKinematics.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group02.git",
       "TestKinematics.groovy"
+    ],
+    "https://github.com/adam-vr/VexVitaminsRobot_copy.git:VexVitaminsRobotCad.groovy": [
+      "https://github.com/adam-vr/VexVitaminsRobot_copy.git",
+      "VexVitaminsRobotCad.groovy"
     ],
     "https://github.com/adam-vr/VexVitaminsRobot_copy.git:VexVitaminsRobot_copy.xml": [
       "https://github.com/adam-vr/VexVitaminsRobot_copy.git",
