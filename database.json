@@ -73,6 +73,10 @@
   "MenueSettings": {
     "printCSG": true
   },
+  "PhysicsWidget": {
+    "gitStatic": "",
+    "gitMoving": ""
+  },
   "studio-open-git": {
     "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
       "https://github.com/madhephaestus/VexVitaminsRobot.git",
