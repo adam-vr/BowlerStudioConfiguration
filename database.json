@@ -37,6 +37,18 @@
       "X-Box",
       "Game",
       "XBOX",
+      "GPD",
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
+      "GPD",
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
       "GPD"
     ],
     "linkDeviceName": "virtualDev",
@@ -81,5 +93,20 @@
     "skinBranch": "0.25.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
+  },
+  "Faceoff Deluxe+ Audio Wired Controller for Nintendo Switch": {
+    "Button 9": "start",
+    "X Axis": "l-joy-left-right",
+    "Button 8": "select",
+    "Button 7": "analog-trig",
+    "Button 5": "r-trig-button",
+    "Y Axis": "l-joy-up-down",
+    "Button 4": "l-trig-button",
+    "Button 3": "x-mode",
+    "Button 2": "a-mode",
+    "Button 1": "b-mode",
+    "Button 0": "y-mode",
+    "Z Axis": "r-joy-left-right",
+    "Z Rotation": "r-joy-up-down"
   }
 }
